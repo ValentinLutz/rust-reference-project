@@ -1,0 +1,5 @@
+# Rust
+app/target
+
+# JetBrains IDEs
+.idea

@@ -1,0 +1,15 @@
+[package]
+name = "app"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+actix-web = "4"
+md5 = "0.7.0"
+base64 = "0.13.0"
+strum = "0.24"
+strum_macros = "0.24"
+chrono = "0.4.22"
+
+[dev-dependencies]
+test-case = "2.2.1"
